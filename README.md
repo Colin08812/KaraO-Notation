@@ -8,8 +8,7 @@ We fell in love with Dave's pitch for a karaoke website. We wanted to make a kar
 Our project takes in youtube music links and plays it with muted vocals and lyrics on the side that are synced in real time to deliver the best karaoke experience.
 
 ## How I built it
-We first drew mockups of  
-- back end -- finding API's to sync
+We first drew mockups of the design that we wanted. We tried to find API's that could work for our project. 
 
 ## Challenges I ran into
 There were two ways we thought of implementing our idea. So we could either take the youtube links and find lyrics that match the song from a song database or we could use text-to-speech input to output the lyrics. We had trouble matching the timing of the lyrics to the song. Our audio filtering was inconsistent, depending on the composition of the song the success of our filtering varied. We decided to write the API calls with javascript but I was unfamiliar with javascript so I spent a lot of time figuring out how to translate java code into javascript. We also had design conflicts in choosing between a moving, flashy background or a static, simple background. 
