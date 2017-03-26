@@ -24,3 +24,5 @@ So far we input mp3 files to our program so for additional functionality we will
 
 ## Clickable Prototype
 https://invis.io/SGB0U0AD7
+
+[![gif](karaode.gif)](https://invis.io/SGB0U0AD7 "Click here to try!")
